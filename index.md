@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>King Crab</title>
+    </head>
 
-You can use the [editor on GitHub](https://github.com/MatheusABorges/MatheusABorges.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+    <body>
+        <article>
+            <h1 style="text-align: center; font-size: 300%; color: red">King Crab</h1>
+            <div style="text-align: center;">
+                <img
+                    src="https://static.turbosquid.com/Preview/001178/185/TF/red-king-crab-3D_600.jpg"
+                    alt="King Crab"
+                    title="Giant Crab"
+                    width="400"
+                    class="aligncenter"
+                />
+            </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            <section>
+                <h1 style="text-align: left; font-size: 400%">About King Crabs</h1>
+                <div style="float: right">
+                    <aside>
+                        <img
+                            width="266"
+                            height="150"
+                            src="https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1809/bbtreesubmission180905518/107930340-steamed-whole-king-crab-on-plate-with-garnish-and-side-dishes.jpg"
+                        ></img>
+                    </aside>
+                </div>
+                <p style="width: 500px; text-align: left; font-size: 120%;" ;>
+                    King crabs are a taxon of crab-like decapod crustaceans chiefly found in cold seas. 
+                    Because of their large size and the taste of their meat, many species are widely caught 
+                    and sold as food, the most common being the red king crab.
+                </p>
 
-### Markdown
+            </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            <section>
+                <h2>Some Random Facts About King Crabs</h2>
+                <ul>
+                    <li>
+                        There are over 100 species of king crab.
+                    </li>
+                    <li>King crabs are mainly carnivores, feeding on snails, worms, mussels, clam, starfish,
+                        and even other crabs.
+                    </li>
+                    <li>
+                        They walk up to 100 miles during ther yearly migration.
+                    </li>
+                    <li>
+                        Their blood is blue.
+                    </li>
+                </ul>
+            </section>
 
-```markdown
-Syntax highlighted code block
+        </article>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatheusABorges/MatheusABorges.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <form action="https://youtu.be/u_Bb-XLPRpY">
+            <p>Want to see a delicious king crab dish?</p>
+            <p><input type="submit" value="Click Here!" /></p>
+        </form>
+    </body>
+</html>
